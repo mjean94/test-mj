@@ -2,4 +2,4 @@
 /bin
 /dependency
 
-.txt
+*.txt
