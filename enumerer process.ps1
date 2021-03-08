@@ -1,3 +1,2 @@
 # Auteur : Martin Jean
-$result = Get-ChildItem
-$result
+Get-Process | sort-object cpu -Descending | select -first 5
