@@ -1,0 +1,2 @@
+$result = Get-ChildItem
+$result
